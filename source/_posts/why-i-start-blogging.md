@@ -1,6 +1,8 @@
 ---
 title: 为什么我开始写博客
 date: 2026-05-27 11:08:00
+type: "categories"
+layout: "categories"
 category: [随笔]
 tags: [写作, 博客]
 ---

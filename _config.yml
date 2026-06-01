@@ -104,3 +104,7 @@ deploy:
   type: git
   repo: https://github.com/yimingmeng01/yimingmeng01.github.io.git
   branch: main
+search:
+  path: search.xml
+  field: post
+  content: true

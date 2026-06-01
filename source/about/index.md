@@ -1,6 +1,9 @@
 ---
 title: about
 date: 2026-05-20 22:47:04
+type: "about"
+layout: "about"
+top_img: /img/about_img.jpg
 ---
 个人信息🧑‍💻：01年出生于河北，23年大学本科毕业，软件工程专业，现居住在上海
 
